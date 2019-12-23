@@ -50,7 +50,9 @@ const MenuBar = () => {
         title="Mudar visualização"
         onClick={() => {
           window.__setPreferredDisplay(isListMode ? 'grid' : 'list')
-      }}>
+      }}
+        className="display"
+      >
         {isListMode ? <Grid /> : <List />}
       </S.MenuBarItem>
       <S.MenuBarItem to="/" title="Ir para o topo"><Arrow /></S.MenuBarItem>
