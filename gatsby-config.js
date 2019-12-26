@@ -8,7 +8,7 @@ module.exports = {
     position: `Tech Recruiter`,
     description: `A blog about tech recruitment and other cool stuff.`,
     author: `@myblog`,
-    siteUrl: `https://kaiofelipe.dev`
+    siteUrl: `https://gatsby-course-kaio.netlify.com`
   },
   plugins: [
     `gatsby-plugin-transition-link`,
