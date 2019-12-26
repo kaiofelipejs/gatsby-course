@@ -3,6 +3,8 @@ title: 'New post of mussum ipsum, the best ipsum of the world'
 description: Little cool description is here.
 date: '2019-12-26 01:05:34'
 thumbnail: /assets/img/volcano.jpg
+category: misc
+background: '#7AAB13'
 ---
 ## New post of mussum ipsum, the best ipsum of the world
 
